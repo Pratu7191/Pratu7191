@@ -16,7 +16,7 @@ Email Me 👉 ✉️ **pratusanap526@gmail.com** For Collaboration/Project or An
 ![](https://github-profile-trophy.vercel.app/?username=Pratu7191&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prathamesh-sanap-33073a253/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratusanap526@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathamesh-sanap-33073a253/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratusanap526@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
